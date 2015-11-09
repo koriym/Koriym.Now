@@ -1,0 +1,13 @@
+{
+    "name": "koriym/now",
+    "description":"Pprovides current time",
+    "keywords":[
+        "now"
+    ],
+    "license": "MIT",
+    "autoload":{
+        "psr-4":{
+            "Koriym\\Now\\": "src/"
+        }
+    }
+}
