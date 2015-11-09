@@ -6,7 +6,7 @@
  */
 namespace Koriym\Now;
 
-final class FakeNow
+final class FakeNow implements NowInterface
 {
     const TIME = '1970-01-01 00:00:00';
 

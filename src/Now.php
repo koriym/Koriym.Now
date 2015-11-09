@@ -6,7 +6,7 @@
  */
 namespace Koriym\Now;
 
-final class Now
+final class Now implements NowInterface
 {
     /**
      * @var \DateTimeInterface
