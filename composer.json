@@ -5,6 +5,9 @@
         "now"
     ],
     "license": "MIT",
+    "require-dev": {
+        "ray/di": "~2.2"
+    },
     "autoload":{
         "psr-4":{
             "Koriym\\Now\\": "src/"
