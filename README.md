@@ -1,6 +1,7 @@
 # Koriym.Now
 
-[![Build Status](https://travis-ci.org/koriym/Koriym.Now.svg?branch=master)](https://travis-ci.org/koriym/Koriym.Now)
+[![Build Status](https://travis-ci.org/koriym/Koriym.Now.svg?branch=1.x)](https://travis-ci.org/koriym/Koriym.Now)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/koriym/Koriym.Now/badges/quality-score.png?b=1.x)](https://scrutinizer-ci.com/g/koriym/Koriym.Now/?branch=1.x)
 [![Code Coverage](https://scrutinizer-ci.com/g/koriym/Koriym.Now/badges/coverage.png?b=1.x)](https://scrutinizer-ci.com/g/koriym/Koriym.Now/?branch=1.x)
 
 
