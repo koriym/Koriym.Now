@@ -12,5 +12,10 @@
         "psr-4":{
             "Koriym\\Now\\": "src/"
         }
+    },
+    "autoload-dev":{
+        "psr-4":{
+            "Koriym\\Now\\": "tests/Fake"
+        }
     }
 }
