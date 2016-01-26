@@ -15,6 +15,6 @@ class NowProvider implements ProviderInterface
      */
     public function get()
     {
-        return new \DateTime;
+        return new Now(new \DateTime);
     }
 }
