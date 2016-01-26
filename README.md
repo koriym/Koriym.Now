@@ -1,5 +1,9 @@
 # Koriym.Now
 
+[![Build Status](https://travis-ci.org/koriym/Koriym.Now.svg?branch=master)](https://travis-ci.org/koriym/Koriym.Now)
+[![Code Coverage](https://scrutinizer-ci.com/g/koriym/Koriym.Now/badges/coverage.png?b=1.x)](https://scrutinizer-ci.com/g/koriym/Koriym.Now/?branch=1.x)
+
+
 Provide current time with [NowInterface](https://github.com/koriym/Koriym.Now/blob/1.x/src/NowInterface.php)
 
 # Usage
