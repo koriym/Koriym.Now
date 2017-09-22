@@ -7,5 +7,6 @@ nbproject
 .project
 .settings
 cache.properties
+composer.lock
 build
 vendor/
