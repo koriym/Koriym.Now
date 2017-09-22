@@ -9,13 +9,9 @@ cache:
   directories:
     - vendor
     - $HOME/.composer/cache
-env:
-  matrix:
-    - DEPENDENCIES=""
-    - DEPENDENCIES="--prefer-lowest --prefer-stable"
 before_script:
   - composer self-update
-  - composer update $DEPENDENCIES
+  - composer update
 script:
   - ./vendor/bin/phpunit --coverage-clover=coverage.clover;
 after_script:
